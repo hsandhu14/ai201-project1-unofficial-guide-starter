@@ -1,0 +1,13 @@
+Professor: Charles Bryan
+
+Review: He has a good sense of humor and keeps the class engaging, even if his jokes didn't always land for me. The class was enjoyable overall. His exams were tough at first, but once he started giving study guides, they became much more manageable.
+
+Review: Its clear this professor is passionate about coding, his lectures are fun and engaging, he's a lenient grader and bulk of your grade will be from assigned projects, there is a midterm/final 'quiz' but its not heavily graded so if you don't do well coding on paper; don't worry. There is a quarter long project you will be working on w/ assigned team
+
+Review: Lectures always very useful, Prof. is great at answering questions. Lectures are recorded so you won't miss anything (except the opportunity to ask clarifying questions). Attendance is only mandatory on quiz days. Quizzes are on paper (written code) and material is provided around a week in advance. Group project at the end, not too difficult.
+
+Review: Charles is the most enthusiastic professor I've had at this school. I already enjoy CS but his passion for teaching and CS is contagious. Super available for help. He's smart and wants you to succeed. Give this man a raise, carrying the whole cs department with one (maybe two) other professors.
+
+Review: Spring 2022 - Quarter long project with labs. Lectures are funny, informative, and exceptionally detailed. Project is extremely fascinating and fun, but communicate with the professor if there are any issues with your group. Labs are 100% essential - pay close attention and take notes. Extremely heavy course, but worth every second of your time.
+
+Review: I appreciate him for teaching Java Swing framework. I am little biased for comparing his teaching materials to UW Allen school materials. If you want to maintain coding skills, don't forget to practice LeetCode questions concurrently. Expect to spend hours reading Java Swing documentation.

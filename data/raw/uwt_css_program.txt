@@ -1,0 +1,15 @@
+UW Tacoma Computer Science and Systems Program
+
+The Computer Science and Systems program prepares students for careers in software development, information technology, cybersecurity, data science, and related fields.
+
+Students complete coursework in programming, data structures, algorithms, software engineering, operating systems, databases, networking, and computer architecture.
+
+Many courses include group projects that simulate real-world software development environments.
+
+Students gain experience working with programming languages, development tools, testing techniques, and collaborative workflows.
+
+The curriculum encourages critical thinking, problem solving, and communication skills.
+
+Graduates pursue careers in software engineering, systems administration, cloud computing, cybersecurity, and technology consulting.
+
+Internships, personal projects, and extracurricular learning are commonly recommended to strengthen career readiness.

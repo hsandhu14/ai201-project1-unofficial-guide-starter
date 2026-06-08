@@ -1,0 +1,18 @@
+Professor: Wes Lloyd
+
+Review: had this professor as of spring 2024,was good not bad, sometimes he wasn't as clear on explaining thing. He was way too strict about academic dishonesty went off on student that was just asking for help on setting up the software that was needed . 4 months after the course, accused 8 students of cheating with no hard evidence, including me.
+
+Review: Professor Llyod is one of the best professors I've studied under. One can see that he is really passionate about teaching. He stays back and answers every student's questions, sometimes even going to the extent of going over their code and debugging it. Assignments are interesting and the grading is easy. Definitely take a course under him.
+
+Review: One of the few professors who really put an effort into making sure that he was accessible if we had any questions. He made extra class sessions to review pre-exam practice questions, and also had experienced Software Engineers come to class and tell us their stories. I believe he one of the best Professors at UW Tacoma.
+
+Review: Wes is the most patient professor I have ever come across. During the quarter, he gained a reputation of being super helpful during office hours, even if you caught him after class. He would take the time to explain clearly and has a keen ability to understand exactly what you are having trouble with. Not an easy class, but a worthwhile one!
+
+Review: Good lecturer. Uses a free online textbook. Provides grading rubrics for each assignment up-front, and each assignment has bonus extra credit options. Always willing to answer questions. Programming assignments focus on multithreading and parallel processing, using C.
+
+Review: I've had lots of professors and Dr. Lloyd is without a doubt at the top of the list. Lectures are boring but otherwise he is extremely helpful, knows a lot, and very fair on grading. Practice tests that were very similar to what was on the actual tests. His tutorials are very helpful for homework. Lectures, slides, and book all follow each other.
+
+Review: Great professor and a great class. The class was challenging, and you will learn a lot. The textbook he uses is free and you'll definitely need to read it if you want to do well on the exams, which are pretty tough. His homework is time-consuming, but if you know C well, you'll do fine. Make sure you do the extra credit offered.
+
+Review: The best kind of professor. Wants you to learn the material, not just regurgitate from a book. Will explain it to you as many times as needed, and in detail. Available after class and during office hours. Genuinely cares about producing the best of the next gen of computer scientists. The work is difficult, but satisfying. Great guy.
+
