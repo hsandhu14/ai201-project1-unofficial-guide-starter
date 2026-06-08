@@ -41,12 +41,12 @@ My Unofficial Guide focuses on student reviews and experiences with Computer Sci
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 400 characters
+**Chunk size:** 300 characters
 
 **Overlap:** 50 characters
 
 **Reasoning:**
-Most of my documents are short student reviews or discussion posts rather than long guides. A 400-character chunk should usually keep one full review or one main opinion together. A 50-character overlap helps preserve context when important details are near the boundary between two chunks. If chunks are too small, reviews may lose meaning. If chunks are too large, retrieval may include too much unrelated information.
+Most of my documents are short student reviews or discussion posts rather than long guides. A 300-character chunk should usually keep one full review or one main opinion together. A 50-character overlap helps preserve context when important details are near the boundary between two chunks. If chunks are too small, reviews may lose meaning. If chunks are too large, retrieval may include too much unrelated information. I tried 400 chunks, but it was too much. 
 
 ---
 
