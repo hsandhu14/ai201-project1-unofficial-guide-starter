@@ -26,7 +26,7 @@
 |---|--------|------|-----------------|
 | 1 | Alan Fowler Reviews | Text File | data/raw/alan_fowler.txt |
 | 2 | Charles Bryan Reviews |Text File |data/raw/charles_bryan.txt |
-| 3 | David Schuessler Reviews | Text File | |
+| 3 | David Schuessler Reviews | Text File | data/raw/david_schuessler.txt |
 | 4 | Jeffery Weiss Reviews | Text File | jeffery_weiss.txt |
 | 5 | Tom Capaul Reviews | Text File | tom_capaul.txt |
 | 6 | Wes Lloyd | Text File | wes_lloyd.txt |
