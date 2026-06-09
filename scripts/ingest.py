@@ -9,7 +9,7 @@ OUT_DIR = Path("data/processed")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 CHUNK_SIZE = 400
-OVERLAP = 50
+OVERLAP = 100
 
 
 def clean_text(text):
