@@ -41,12 +41,12 @@ My Unofficial Guide focuses on student reviews and experiences with Computer Sci
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 600 characters
+**Chunk size:** 400 characters
 
 **Overlap:** 100 characters
 
 **Reasoning:**
-Reasoning: Initial testing with 400-character chunks produced weak retrieval scores above 0.6. I increased chunk size to 600 characters with 100-character overlap so each embedding contains more context from complete professor reviews.
+Reasoning: Initial testing with 400-character chunks produced weak retrieval scores above 0.6. I increased chunk size to 600 characters with 100-character overlap so each embedding contains more context from complete professor reviews. Some distance scores remained above 0.7, but I inspected the returned chunks manually. The retrieved chunks were still related to the professor-review questions, so I evaluated retrieval quality based on the relevance of the returned text rather than the distance score alone.
 
 ---
 
